@@ -1,0 +1,5 @@
+senv/
+venv/
+__pycache__/
+.git/
+*.ipynb

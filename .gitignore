@@ -1,0 +1,14 @@
+
+# Machine Learning Training logs & metadata
+catboost_info/
+logs/
+
+
+# OS specific junk
+*.lnk
+Thumbs.db
+.DS_Store
+
+# Virtual Environments (Safety check)
+senv/
+.senv/
